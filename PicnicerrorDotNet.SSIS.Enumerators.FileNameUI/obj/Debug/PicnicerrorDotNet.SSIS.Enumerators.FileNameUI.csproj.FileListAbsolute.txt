@@ -1,0 +1,18 @@
+C:\Dev\reporting\trunk\ssis\CustomObjects\PicnicerrorDotNet\PicnicerrorDotNet.SSIS.Enumerators.FileNameUI\obj\Debug\PicnicerrorDotNet.SSIS.Enumerators.FileNameUI.csprojResolveAssemblyReference.cache
+C:\Dev\reporting\trunk\ssis\CustomObjects\PicnicerrorDotNet\PicnicerrorDotNet.SSIS.Enumerators.FileNameUI\obj\Debug\PicnicerrorDotNet.SSIS.Enumerators.ForEachFileNameEnumeratorUI.resources
+C:\Dev\reporting\trunk\ssis\CustomObjects\PicnicerrorDotNet\PicnicerrorDotNet.SSIS.Enumerators.FileNameUI\obj\Debug\PicnicerrorDotNet.SSIS.Enumerators.FileNameUI.csproj.GenerateResource.Cache
+C:\Dev\reporting\trunk\ssis\CustomObjects\PicnicerrorDotNet\PicnicerrorDotNet.SSIS.Enumerators.FileNameUI\bin\Debug\PicnicerrorDotNet.SSIS.Enumerators.FileNameUI.dll
+C:\Dev\reporting\trunk\ssis\CustomObjects\PicnicerrorDotNet\PicnicerrorDotNet.SSIS.Enumerators.FileNameUI\bin\Debug\PicnicerrorDotNet.SSIS.Enumerators.FileNameUI.pdb
+C:\Dev\reporting\trunk\ssis\CustomObjects\PicnicerrorDotNet\PicnicerrorDotNet.SSIS.Enumerators.FileNameUI\obj\Debug\PicnicerrorDotNet.SSIS.Enumerators.FileNameUI.dll
+C:\Dev\reporting\trunk\ssis\CustomObjects\PicnicerrorDotNet\PicnicerrorDotNet.SSIS.Enumerators.FileNameUI\obj\Debug\PicnicerrorDotNet.SSIS.Enumerators.FileNameUI.pdb
+C:\Dev\reporting\trunk\ssis\CustomObjects\PicnicerrorDotNet\PicnicerrorDotNet.SSIS.Enumerators.FileNameUI\bin\Debug\PicnicerrorDotNet.SSIS.Enumerators.FileName.dll
+C:\Dev\reporting\trunk\ssis\CustomObjects\PicnicerrorDotNet\PicnicerrorDotNet.SSIS.Enumerators.FileNameUI\bin\Debug\PicnicerrorDotNet.SSIS.Enumerators.FileName.pdb
+C:\Users\graham.lannigan\SkyDrive\Documents\Dev Stuff\Personal\Projects\SSIS\CustomObjects\PicnicerrorDotNet\PicnicerrorDotNet.SSIS.Enumerators.FileNameUI\bin\Debug\PicnicerrorDotNet.SSIS.Enumerators.FileNameUI.dll
+C:\Users\graham.lannigan\SkyDrive\Documents\Dev Stuff\Personal\Projects\SSIS\CustomObjects\PicnicerrorDotNet\PicnicerrorDotNet.SSIS.Enumerators.FileNameUI\bin\Debug\PicnicerrorDotNet.SSIS.Enumerators.FileNameUI.pdb
+C:\Users\graham.lannigan\SkyDrive\Documents\Dev Stuff\Personal\Projects\SSIS\CustomObjects\PicnicerrorDotNet\PicnicerrorDotNet.SSIS.Enumerators.FileNameUI\bin\Debug\PicnicerrorDotNet.SSIS.Enumerators.FileName.dll
+C:\Users\graham.lannigan\SkyDrive\Documents\Dev Stuff\Personal\Projects\SSIS\CustomObjects\PicnicerrorDotNet\PicnicerrorDotNet.SSIS.Enumerators.FileNameUI\bin\Debug\PicnicerrorDotNet.SSIS.Enumerators.FileName.pdb
+C:\Users\graham.lannigan\SkyDrive\Documents\Dev Stuff\Personal\Projects\SSIS\CustomObjects\PicnicerrorDotNet\PicnicerrorDotNet.SSIS.Enumerators.FileNameUI\obj\Debug\PicnicerrorDotNet.SSIS.Enumerators.FileNameUI.csprojResolveAssemblyReference.cache
+C:\Users\graham.lannigan\SkyDrive\Documents\Dev Stuff\Personal\Projects\SSIS\CustomObjects\PicnicerrorDotNet\PicnicerrorDotNet.SSIS.Enumerators.FileNameUI\obj\Debug\PicnicerrorDotNet.SSIS.Enumerators.ForEachFileNameEnumeratorUI.resources
+C:\Users\graham.lannigan\SkyDrive\Documents\Dev Stuff\Personal\Projects\SSIS\CustomObjects\PicnicerrorDotNet\PicnicerrorDotNet.SSIS.Enumerators.FileNameUI\obj\Debug\PicnicerrorDotNet.SSIS.Enumerators.FileNameUI.csproj.GenerateResource.Cache
+C:\Users\graham.lannigan\SkyDrive\Documents\Dev Stuff\Personal\Projects\SSIS\CustomObjects\PicnicerrorDotNet\PicnicerrorDotNet.SSIS.Enumerators.FileNameUI\obj\Debug\PicnicerrorDotNet.SSIS.Enumerators.FileNameUI.dll
+C:\Users\graham.lannigan\SkyDrive\Documents\Dev Stuff\Personal\Projects\SSIS\CustomObjects\PicnicerrorDotNet\PicnicerrorDotNet.SSIS.Enumerators.FileNameUI\obj\Debug\PicnicerrorDotNet.SSIS.Enumerators.FileNameUI.pdb

@@ -1,0 +1,5 @@
+C:\Dev\reporting\trunk\ssis\CustomObjects\LBi.Research.ForEachFileExpressionEnumerator\LBi.Research.ForEachFileExpressionEnumerator\bin\Debug\LBi.Research.ForEachFileExpressionEnumerator.dll
+C:\Dev\reporting\trunk\ssis\CustomObjects\LBi.Research.ForEachFileExpressionEnumerator\LBi.Research.ForEachFileExpressionEnumerator\bin\Debug\LBi.Research.ForEachFileExpressionEnumerator.pdb
+C:\Dev\reporting\trunk\ssis\CustomObjects\LBi.Research.ForEachFileExpressionEnumerator\LBi.Research.ForEachFileExpressionEnumerator\obj\Debug\LBi.Research.ForEachFileExpressionEnumerator.csprojResolveAssemblyReference.cache
+C:\Dev\reporting\trunk\ssis\CustomObjects\LBi.Research.ForEachFileExpressionEnumerator\LBi.Research.ForEachFileExpressionEnumerator\obj\Debug\LBi.Research.ForEachFileExpressionEnumerator.dll
+C:\Dev\reporting\trunk\ssis\CustomObjects\LBi.Research.ForEachFileExpressionEnumerator\LBi.Research.ForEachFileExpressionEnumerator\obj\Debug\LBi.Research.ForEachFileExpressionEnumerator.pdb

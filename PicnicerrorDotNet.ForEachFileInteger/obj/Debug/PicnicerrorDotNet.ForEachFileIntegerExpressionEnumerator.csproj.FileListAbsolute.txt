@@ -1,0 +1,14 @@
+C:\Dev\reporting\trunk\ssis\CustomObjects\LBi.Research.ForEachFileExpressionEnumerator\LBi.Research.ForEachFileExpressionEnumerator\bin\Debug\PicnicerrorDotNet.SSIS.Enumerators.FileIntegerExpression.dll
+C:\Dev\reporting\trunk\ssis\CustomObjects\LBi.Research.ForEachFileExpressionEnumerator\LBi.Research.ForEachFileExpressionEnumerator\bin\Debug\PicnicerrorDotNet.SSIS.Enumerators.FileIntegerExpression.pdb
+C:\Dev\reporting\trunk\ssis\CustomObjects\LBi.Research.ForEachFileExpressionEnumerator\LBi.Research.ForEachFileExpressionEnumerator\obj\Debug\PicnicerrorDotNet.SSIS.Enumerators.FileIntegerExpression.dll
+C:\Dev\reporting\trunk\ssis\CustomObjects\LBi.Research.ForEachFileExpressionEnumerator\LBi.Research.ForEachFileExpressionEnumerator\obj\Debug\PicnicerrorDotNet.SSIS.Enumerators.FileIntegerExpression.pdb
+C:\Dev\reporting\trunk\ssis\CustomObjects\PicnicerrorDotNet\PicnicerrorDotNet.ForEachFileInteger\bin\Debug\PicnicerrorDotNet.SSIS.Enumerators.FileIntegerExpression.dll
+C:\Dev\reporting\trunk\ssis\CustomObjects\PicnicerrorDotNet\PicnicerrorDotNet.ForEachFileInteger\bin\Debug\PicnicerrorDotNet.SSIS.Enumerators.FileIntegerExpression.pdb
+C:\Dev\reporting\trunk\ssis\CustomObjects\PicnicerrorDotNet\PicnicerrorDotNet.ForEachFileInteger\obj\Debug\PicnicerrorDotNet.SSIS.Enumerators.FileIntegerExpression.dll
+C:\Dev\reporting\trunk\ssis\CustomObjects\PicnicerrorDotNet\PicnicerrorDotNet.ForEachFileInteger\obj\Debug\PicnicerrorDotNet.SSIS.Enumerators.FileIntegerExpression.pdb
+C:\Dev\reporting\trunk\ssis\CustomObjects\PicnicerrorDotNet\PicnicerrorDotNet.ForEachFileInteger\obj\Debug\PicnicerrorDotNet.ForEachFileIntegerExpressionEnumerator.csprojResolveAssemblyReference.cache
+C:\Users\graham.lannigan\SkyDrive\Documents\Dev Stuff\Personal\Projects\SSIS\CustomObjects\PicnicerrorDotNet\PicnicerrorDotNet.ForEachFileInteger\bin\Debug\PicnicerrorDotNet.SSIS.Enumerators.FileIntegerExpression.dll
+C:\Users\graham.lannigan\SkyDrive\Documents\Dev Stuff\Personal\Projects\SSIS\CustomObjects\PicnicerrorDotNet\PicnicerrorDotNet.ForEachFileInteger\bin\Debug\PicnicerrorDotNet.SSIS.Enumerators.FileIntegerExpression.pdb
+C:\Users\graham.lannigan\SkyDrive\Documents\Dev Stuff\Personal\Projects\SSIS\CustomObjects\PicnicerrorDotNet\PicnicerrorDotNet.ForEachFileInteger\obj\Debug\PicnicerrorDotNet.ForEachFileIntegerExpressionEnumerator.csprojResolveAssemblyReference.cache
+C:\Users\graham.lannigan\SkyDrive\Documents\Dev Stuff\Personal\Projects\SSIS\CustomObjects\PicnicerrorDotNet\PicnicerrorDotNet.ForEachFileInteger\obj\Debug\PicnicerrorDotNet.SSIS.Enumerators.FileIntegerExpression.dll
+C:\Users\graham.lannigan\SkyDrive\Documents\Dev Stuff\Personal\Projects\SSIS\CustomObjects\PicnicerrorDotNet\PicnicerrorDotNet.ForEachFileInteger\obj\Debug\PicnicerrorDotNet.SSIS.Enumerators.FileIntegerExpression.pdb

@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PicnicerrorDotNet.ForEachFileIntegerExpressionEnumerator", "PicnicerrorDotNet.ForEachFileInteger\PicnicerrorDotNet.ForEachFileIntegerExpressionEnumerator.csproj", "{3A05E929-ED01-4CA9-B2AD-5FC6E278472B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PicnicerrorDotNet.SSIS.Enumerators.FileIntegerExpressionUI", "PicnicerrorDotNet.ForEachFileIntegerUI\PicnicerrorDotNet.SSIS.Enumerators.FileIntegerExpressionUI.csproj", "{61D70ED7-AFB2-4B2A-AFBB-4EFAED8A35CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PicnicerrorDotNet.ForEachFileNameEnumerator", "PicnicerrorDotNet.ForEachFileNameEnumerator\PicnicerrorDotNet.ForEachFileNameEnumerator.csproj", "{C4F7A56F-B7D4-4836-89E2-C407DA61BE86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PicnicerrorDotNet.SSIS.Enumerators.FileNameUI", "PicnicerrorDotNet.SSIS.Enumerators.FileNameUI\PicnicerrorDotNet.SSIS.Enumerators.FileNameUI.csproj", "{983424BA-71D9-4476-A402-99D794E81EE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A05E929-ED01-4CA9-B2AD-5FC6E278472B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A05E929-ED01-4CA9-B2AD-5FC6E278472B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A05E929-ED01-4CA9-B2AD-5FC6E278472B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A05E929-ED01-4CA9-B2AD-5FC6E278472B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61D70ED7-AFB2-4B2A-AFBB-4EFAED8A35CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61D70ED7-AFB2-4B2A-AFBB-4EFAED8A35CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61D70ED7-AFB2-4B2A-AFBB-4EFAED8A35CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61D70ED7-AFB2-4B2A-AFBB-4EFAED8A35CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4F7A56F-B7D4-4836-89E2-C407DA61BE86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4F7A56F-B7D4-4836-89E2-C407DA61BE86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4F7A56F-B7D4-4836-89E2-C407DA61BE86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4F7A56F-B7D4-4836-89E2-C407DA61BE86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{983424BA-71D9-4476-A402-99D794E81EE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{983424BA-71D9-4476-A402-99D794E81EE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{983424BA-71D9-4476-A402-99D794E81EE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{983424BA-71D9-4476-A402-99D794E81EE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
